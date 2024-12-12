@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 12/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![1](https://github.com/user-attachments/assets/e633fb95-6e4a-494a-b43c-93480734d91e)
+![2](https://github.com/user-attachments/assets/8e051b07-aaa4-418e-a347-e26e8a3e0fee)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![3](https://github.com/user-attachments/assets/f953b5b0-c753-4f06-bf80-e958fbfe4671)
+![4](https://github.com/user-attachments/assets/3eaef527-3aa3-44e9-aca3-a1604781c7f0)
+
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![5](https://github.com/user-attachments/assets/6734efef-4361-44ed-85de-3dcb2845d308)
+![6](https://github.com/user-attachments/assets/af12eedb-3d7f-4d5d-b4f1-49255b7ce885)
 
-## Output:
 
-### Name:
-### Register Number:
+
+
+### Name: SANTHOSH S
+### Register Number: 24004753
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
